@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Mousa
 
-A passionate Full-Stack developer from Jordan
+<h3 align="center">A passionate Full-Stack developer from Jordan</h3>
 
 
 🔭 I’m currently working on new project of Ecommerce project
