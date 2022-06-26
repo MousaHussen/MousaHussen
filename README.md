@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 👋, I'm Mousa
 
-<!--
-**MousaHussen/MousaHussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Full-Stack developer from Jordan
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on new project of Ecommerce project
+
+🌱 I’m currently learning more about React.Js
+
+💬 Ask me about React.js, Node.js, JavaScript, CSS, MySQL, MongoDB
+
+👨‍💻 All of my projects are available at my profile GitHub
+
+📄 Know about my experiences on my LinkedIn https://www.linkedin.com/in/mousa-hussen/
+
+⚡ Fun fact
+
