@@ -13,5 +13,5 @@
 
 📄 Know about my experiences on my LinkedIn https://www.linkedin.com/in/mousa-hussen/
 
-⚡ Fun fact
+
 
